@@ -19,7 +19,7 @@ function Signin() {
             <label htmlFor="floatingInput">Email address</label>
           </div>
           <div className="form-floating">
-            <input type="password" className="form-control" id="floatingPassword" placeholder="Password" />
+            <input type="passwordAgain" className="form-control" id="floatingPassword" placeholder="Password" />
             <label htmlFor="floatingPassword">Password</label>
           </div>
 

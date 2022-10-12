@@ -18,8 +18,8 @@ function Nav() {
                     <button className="nav-link" id="nav-profile-tab"
                         data-bs-toggle="tab" data-bs-target="#nav-profile"
                         type="button" role="tab" aria-controls="nav-profile" aria-selected="false">
-                        <Link href="/signin">
-                            <a>Sign In</a>
+                        <Link href="/signup">
+                            <a>Sign up</a>
                         </Link>
                     </button>
                     <button className="nav-link" id="nav-profile-tab"
